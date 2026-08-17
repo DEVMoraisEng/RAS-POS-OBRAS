@@ -1,0 +1,36 @@
+{
+  "geradoEm": "2026-08-17T20:35:12",
+  "statusOptions": [
+    "Continuidade da Semana Anterior",
+    "A Fazer",
+    "Em Andamento",
+    "Concluído",
+    "Pendente"
+  ],
+  "setorOptions": [
+    "Paula",
+    "Caio"
+  ],
+  "atividades": [
+    {
+      "id": "3bfc5ab5-32d3-801f-9398-fdfa728327fe",
+      "nome": "",
+      "setor": "Caio",
+      "responsavel": "Caio",
+      "prioridade": "",
+      "status": "",
+      "semana": "2026-08-17",
+      "obs": ""
+    },
+    {
+      "id": "3bfc5ab5-32d3-8047-ac97-ea14427ce28b",
+      "nome": "",
+      "setor": "Paula",
+      "responsavel": "Paula",
+      "prioridade": "",
+      "status": "",
+      "semana": "2026-08-17",
+      "obs": ""
+    }
+  ]
+}
