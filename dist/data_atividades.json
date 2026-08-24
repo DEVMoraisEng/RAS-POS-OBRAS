@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-24T01:49:40",
+  "geradoEm": "2026-08-24T03:04:02",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -18,8 +18,8 @@
       "setor": "Caio",
       "responsavel": "Caio",
       "prioridade": "",
-      "status": "",
-      "semana": "2026-08-17",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-08-24",
       "obs": ""
     },
     {
@@ -28,8 +28,8 @@
       "setor": "Paula",
       "responsavel": "Paula",
       "prioridade": "",
-      "status": "",
-      "semana": "2026-08-17",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-08-24",
       "obs": ""
     }
   ]
