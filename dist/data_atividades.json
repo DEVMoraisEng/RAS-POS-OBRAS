@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-25T17:37:37",
+  "geradoEm": "2026-08-25T17:54:24",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -12,6 +12,16 @@
     "Caio"
   ],
   "atividades": [
+    {
+      "id": "3c7c5ab5-32d3-818a-b38f-d5f32b26cb45",
+      "nome": "TESTE POS OBRA",
+      "setor": "Paula",
+      "responsavel": "Paula",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-08-24",
+      "obs": ""
+    },
     {
       "id": "3bfc5ab5-32d3-801f-9398-fdfa728327fe",
       "nome": "",
