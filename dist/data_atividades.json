@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-31T13:28:25",
+  "geradoEm": "2026-08-31T13:30:49",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -12,6 +12,16 @@
     "Caio"
   ],
   "atividades": [
+    {
+      "id": "3cdc5ab5-32d3-8142-98fb-d4b51b77b67c",
+      "nome": "Atualizar o banco de dados do pós obra para o Dashboard",
+      "setor": "Paula",
+      "responsavel": "Paula",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-08-31",
+      "obs": ""
+    },
     {
       "id": "3c7c5ab5-32d3-818a-b38f-d5f32b26cb45",
       "nome": "TESTE POS OBRA",
