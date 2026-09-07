@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-07T05:55:45",
+  "geradoEm": "2026-09-07T07:05:12",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -18,8 +18,8 @@
       "setor": "Paula",
       "responsavel": "Paula",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-08-31",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-09-07",
       "obs": "",
       "origem": ""
     },
@@ -30,7 +30,7 @@
       "responsavel": "Paula",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-08-31",
+      "semana": "2026-09-07",
       "obs": "",
       "origem": ""
     },
@@ -41,7 +41,7 @@
       "responsavel": "Caio",
       "prioridade": "",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-08-31",
+      "semana": "2026-09-07",
       "obs": "",
       "origem": ""
     },
@@ -52,7 +52,7 @@
       "responsavel": "Paula",
       "prioridade": "",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-08-31",
+      "semana": "2026-09-07",
       "obs": "",
       "origem": ""
     }
