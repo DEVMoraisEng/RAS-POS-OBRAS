@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-10-05T17:58:34",
+  "geradoEm": "2026-10-05T19:32:38",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -12,6 +12,17 @@
     "Caio"
   ],
   "atividades": [
+    {
+      "id": "3f0c5ab5-32d3-8138-8818-edcbe6212f79",
+      "nome": "Visita - Lara - TB 14 QD 43 LT 29 Cs 2",
+      "setor": "Caio",
+      "responsavel": "Caio",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-10-05",
+      "obs": "infiltração teto e mal cheiro no banheiro suite",
+      "origem": ""
+    },
     {
       "id": "3f0c5ab5-32d3-817e-a00a-cbb052ad2e1c",
       "nome": "Visita - João Victor - TB 21 QD 50 LT 40 CS 1",
