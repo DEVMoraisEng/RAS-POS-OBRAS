@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-10-05T15:50:25",
+  "geradoEm": "2026-10-05T17:58:34",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -12,6 +12,28 @@
     "Caio"
   ],
   "atividades": [
+    {
+      "id": "3f0c5ab5-32d3-817e-a00a-cbb052ad2e1c",
+      "nome": "Visita - João Victor - TB 21 QD 50 LT 40 CS 1",
+      "setor": "Caio",
+      "responsavel": "Caio",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-10-05",
+      "obs": "Verificar o acabamento que entregamos na parede do grafiato interno.  avaliar com o pintor como faremos o reparo pra ajustar o acabamento no grafiato",
+      "origem": ""
+    },
+    {
+      "id": "3f0c5ab5-32d3-81e8-8ba9-d8e1ab658fec",
+      "nome": "Visita - Aline Sena - TB 6 QD 40 LT 34 CS 2",
+      "setor": "Caio",
+      "responsavel": "Caio",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-10-05",
+      "obs": "Após as ultimas chuvas, teto da casa infiltrou em diversos pontos",
+      "origem": ""
+    },
     {
       "id": "3f0c5ab5-32d3-8138-8143-fe5bdc95d96b",
       "nome": "Visita - Alessandro - RPB 26 Qd 29 Lt 01 Cs 2",
