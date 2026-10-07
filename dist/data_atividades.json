@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-10-07T12:31:57",
+  "geradoEm": "2026-10-07T13:36:07",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -12,6 +12,28 @@
     "Caio"
   ],
   "atividades": [
+    {
+      "id": "3f2c5ab5-32d3-8137-9972-effafc36a3f0",
+      "nome": "VISTORIA - Alci POLLO MARMORE: RUA W6 QD 17 LT 18 CS 01",
+      "setor": "Caio",
+      "responsavel": "Caio",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-10-05",
+      "obs": "Vamos o eng. Guilherme, o pintor DIONE e eu fazer uma visita às 13:30 e talvez ja iniciar o teste em 1 fissura.\n\nEssa vistoria tem o intúito de avaliarmos tecnicamente as fissuras e orçarmos um preço para o reparo",
+      "origem": ""
+    },
+    {
+      "id": "3f2c5ab5-32d3-81eb-aa2b-fb7061d90d99",
+      "nome": "TB 14 QD 42 LT 29 CS 2 - Copo da caixa sifonada do box do banh. suite está quebrado.  tentamos vedar com PU, mas nao foi eficiente.  Cliente nao utiliza o banheiro suite e pelo copo estar quebrado nao acumula agua, causando retorno dos gases",
+      "setor": "Caio",
+      "responsavel": "Caio",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-10-05",
+      "obs": "temos de quebrar  o piso para trocar a caixa sifonada de 100.",
+      "origem": ""
+    },
     {
       "id": "3f0c5ab5-32d3-8138-8818-edcbe6212f79",
       "nome": "Visita - Lara - TB 14 QD 43 LT 29 Cs 2",
