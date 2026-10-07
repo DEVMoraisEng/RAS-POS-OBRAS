@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-10-07T10:07:09",
+  "geradoEm": "2026-10-07T12:31:57",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -18,7 +18,7 @@
       "setor": "Caio",
       "responsavel": "Caio",
       "prioridade": "Média",
-      "status": "A Fazer",
+      "status": "Concluído",
       "semana": "2026-10-05",
       "obs": "infiltração teto e mal cheiro no banheiro suite",
       "origem": ""
@@ -29,7 +29,7 @@
       "setor": "Caio",
       "responsavel": "Caio",
       "prioridade": "Média",
-      "status": "A Fazer",
+      "status": "Concluído",
       "semana": "2026-10-05",
       "obs": "Verificar o acabamento que entregamos na parede do grafiato interno.  avaliar com o pintor como faremos o reparo pra ajustar o acabamento no grafiato",
       "origem": ""
@@ -40,7 +40,7 @@
       "setor": "Caio",
       "responsavel": "Caio",
       "prioridade": "Média",
-      "status": "A Fazer",
+      "status": "Concluído",
       "semana": "2026-10-05",
       "obs": "Após as ultimas chuvas, teto da casa infiltrou em diversos pontos",
       "origem": ""
@@ -51,7 +51,7 @@
       "setor": "Caio",
       "responsavel": "Caio",
       "prioridade": "Média",
-      "status": "A Fazer",
+      "status": "Pendente",
       "semana": "2026-10-05",
       "obs": "Cliente relata agua infiltrando pelo plafon quando chove. teto com manchas de mofo e infiltração de agua",
       "origem": ""
@@ -84,7 +84,7 @@
       "setor": "Caio",
       "responsavel": "Caio",
       "prioridade": "",
-      "status": "Continuidade da Semana Anterior",
+      "status": "A Fazer",
       "semana": "2026-10-05",
       "obs": "Cliente relata algumas infiltrações fissuras e movimentação do contrapiso e calçada na parea de serviço.\n\nvisita será realizada no dia 06/10 a partir das 13:00",
       "origem": ""
