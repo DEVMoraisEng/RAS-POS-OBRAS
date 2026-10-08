@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-10-08T10:21:59",
+  "geradoEm": "2026-10-08T15:18:30",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -18,7 +18,7 @@
       "setor": "Caio",
       "responsavel": "Caio",
       "prioridade": "Média",
-      "status": "A Fazer",
+      "status": "Concluído",
       "semana": "2026-10-05",
       "obs": "Vamos o eng. Guilherme, o pintor DIONE e eu fazer uma visita às 13:30 e talvez ja iniciar o teste em 1 fissura.\n\nEssa vistoria tem o intúito de avaliarmos tecnicamente as fissuras e orçarmos um preço para o reparo",
       "origem": ""
