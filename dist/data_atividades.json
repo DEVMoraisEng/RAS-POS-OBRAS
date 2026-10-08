@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-10-08T17:49:04",
+  "geradoEm": "2026-10-08T18:49:07",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -12,6 +12,17 @@
     "Caio"
   ],
   "atividades": [
+    {
+      "id": "3f3c5ab5-32d3-8121-bd83-eec16f1c1cef",
+      "nome": "VISTORIA DO DEPARTAMENTO NAS OBRAS QUE SERÃO ENTRERGUES EM GOIANIA:",
+      "setor": "Caio",
+      "responsavel": "Caio",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-10-05",
+      "obs": "",
+      "origem": ""
+    },
     {
       "id": "3f2c5ab5-32d3-8137-9972-effafc36a3f0",
       "nome": "VISTORIA - Alci POLLO MARMORE: RUA W6 QD 17 LT 18 CS 01",
