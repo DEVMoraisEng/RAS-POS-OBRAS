@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-10-12T02:14:23",
+  "geradoEm": "2026-10-12T08:45:07",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -18,8 +18,8 @@
       "setor": "Caio",
       "responsavel": "Caio",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-10-05",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-10-12",
       "obs": "",
       "origem": ""
     },
@@ -40,8 +40,8 @@
       "setor": "Caio",
       "responsavel": "Caio",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-10-05",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-10-12",
       "obs": "temos de quebrar  o piso para trocar a caixa sifonada de 100.",
       "origem": ""
     },
@@ -84,8 +84,8 @@
       "setor": "Caio",
       "responsavel": "Caio",
       "prioridade": "Média",
-      "status": "Pendente",
-      "semana": "2026-10-05",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-10-12",
       "obs": "Cliente relata agua infiltrando pelo plafon quando chove. teto com manchas de mofo e infiltração de agua",
       "origem": ""
     },
@@ -96,7 +96,7 @@
       "responsavel": "Paula",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-10-05",
+      "semana": "2026-10-12",
       "obs": "",
       "origem": ""
     },
@@ -107,7 +107,7 @@
       "responsavel": "Paula",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-10-05",
+      "semana": "2026-10-12",
       "obs": "",
       "origem": ""
     },
@@ -117,8 +117,8 @@
       "setor": "Caio",
       "responsavel": "Caio",
       "prioridade": "",
-      "status": "A Fazer",
-      "semana": "2026-10-05",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-10-12",
       "obs": "Cliente relata algumas infiltrações fissuras e movimentação do contrapiso e calçada na parea de serviço.\n\nvisita será realizada no dia 06/10 a partir das 13:00",
       "origem": ""
     },
@@ -129,7 +129,7 @@
       "responsavel": "Paula",
       "prioridade": "",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-10-05",
+      "semana": "2026-10-12",
       "obs": "",
       "origem": ""
     }
