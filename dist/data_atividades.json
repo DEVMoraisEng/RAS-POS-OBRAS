@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-10-13T18:06:03",
+  "geradoEm": "2026-10-13T19:10:23",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -13,14 +13,25 @@
   ],
   "atividades": [
     {
+      "id": "3f8c5ab5-32d3-8148-8d26-e2dd1dbffd12",
+      "nome": "VISTORIA POS OBRA - OBRAS PARA ENTREGA AO CLIENTE.   14/10",
+      "setor": "Caio",
+      "responsavel": "Caio",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-10-12",
+      "obs": "* ATALANTA QD 01 LT 21 Casa 1\n* FERROVIARIOS QD 01 LT 14 Casa 3\n* FERROVIARIOS QD 01 LT 15 Casa 2",
+      "origem": ""
+    },
+    {
       "id": "3f3c5ab5-32d3-8121-bd83-eec16f1c1cef",
-      "nome": "VISTORIA DO DEPARTAMENTO NAS OBRAS QUE SERÃO ENTRERGUES EM GOIANIA:",
+      "nome": "VISTORIA DO DEPARTAMENTO NAS OBRAS QUE SERÃO ENTRERGUES EM GOIANIA ( 14/10 )",
       "setor": "Caio",
       "responsavel": "Caio",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
       "semana": "2026-10-12",
-      "obs": "",
+      "obs": "* ATALANTA QD 01 LT 21 Casa 1\n* FERROVIARIOS QD 01 LT 14 Casa 3\n* FERROVIARIOS QD 01 LT 15 Casa 2",
       "origem": ""
     },
     {
