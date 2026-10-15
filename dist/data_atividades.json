@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-10-15T14:49:31",
+  "geradoEm": "2026-10-15T19:00:29",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -18,7 +18,7 @@
       "setor": "Caio",
       "responsavel": "Caio",
       "prioridade": "Média",
-      "status": "A Fazer",
+      "status": "Concluído",
       "semana": "2026-10-12",
       "obs": "* ATALANTA QD 01 LT 21 Casa 1\n* FERROVIARIOS QD 01 LT 14 Casa 3\n* FERROVIARIOS QD 01 LT 15 Casa 2",
       "origem": ""
