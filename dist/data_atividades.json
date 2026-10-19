@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-10-19T01:05:43",
+  "geradoEm": "2026-10-19T07:24:33",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -52,7 +52,7 @@
       "responsavel": "Caio",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-10-12",
+      "semana": "2026-10-19",
       "obs": "temos de quebrar  o piso para trocar a caixa sifonada de 100.",
       "origem": ""
     },
@@ -96,7 +96,7 @@
       "responsavel": "Caio",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-10-12",
+      "semana": "2026-10-19",
       "obs": "Cliente relata agua infiltrando pelo plafon quando chove. teto com manchas de mofo e infiltração de agua",
       "origem": ""
     },
@@ -107,7 +107,7 @@
       "responsavel": "Paula",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-10-12",
+      "semana": "2026-10-19",
       "obs": "",
       "origem": ""
     },
@@ -118,7 +118,7 @@
       "responsavel": "Paula",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-10-12",
+      "semana": "2026-10-19",
       "obs": "",
       "origem": ""
     },
@@ -129,7 +129,7 @@
       "responsavel": "Caio",
       "prioridade": "",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-10-12",
+      "semana": "2026-10-19",
       "obs": "Cliente relata algumas infiltrações fissuras e movimentação do contrapiso e calçada na parea de serviço.\n\nvisita será realizada no dia 06/10 a partir das 13:00",
       "origem": ""
     },
@@ -140,7 +140,7 @@
       "responsavel": "Paula",
       "prioridade": "",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-10-12",
+      "semana": "2026-10-19",
       "obs": "",
       "origem": ""
     }
