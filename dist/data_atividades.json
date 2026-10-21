@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-10-21T18:24:43",
+  "geradoEm": "2026-10-21T19:44:05",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -12,6 +12,28 @@
     "Caio"
   ],
   "atividades": [
+    {
+      "id": "400c5ab5-32d3-8184-8975-f7dec59197db",
+      "nome": "ORGANIZAR OS SERVIÇOS EM 3 CASAS NO JARDIM ITAIPU W 6. As casas apresentam retorno de diversas fissuras internas e externas.\ncalçadas fissuradas, rodape de algumas paredes estao estufadas com sinais de infiltração.",
+      "setor": "Caio",
+      "responsavel": "Caio",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-10-19",
+      "obs": "",
+      "origem": ""
+    },
+    {
+      "id": "400c5ab5-32d3-8114-adeb-d12bc01b4677",
+      "nome": "VISITA TB 21 QD 51 LT 35 CS 2\nVISITA TB 14 QD 42 LT 31 CS 1",
+      "setor": "Caio",
+      "responsavel": "Caio",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-10-19",
+      "obs": "Vamos receber um novo pintor com intuito de fazer um teste pra fixa-lo na manutenção",
+      "origem": ""
+    },
     {
       "id": "3f8c5ab5-32d3-8148-8d26-e2dd1dbffd12",
       "nome": "VISTORIA POS OBRA - OBRAS PARA ENTREGA AO CLIENTE.   14/10",
