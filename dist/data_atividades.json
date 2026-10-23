@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-10-23T14:52:36",
+  "geradoEm": "2026-10-23T18:00:30",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -12,6 +12,17 @@
     "Caio"
   ],
   "atividades": [
+    {
+      "id": "402c5ab5-32d3-81ce-b62f-c6ad539dca85",
+      "nome": "chuva forte infiltrou nas casas:\n_ Rayssa - W 6 QD 17 LT 06 CS 2\n_Vanessa - W6 Qd 17 Lt 12 Cs 2\n_ Laura - TB 21 QD 51 LT 34 CS 1\n_Harmesson - TB 21 QD 42 LT 13 CS 2",
+      "setor": "Caio",
+      "responsavel": "Caio",
+      "prioridade": "Alta",
+      "status": "A Fazer",
+      "semana": "2026-10-19",
+      "obs": "",
+      "origem": ""
+    },
     {
       "id": "402c5ab5-32d3-8185-bf57-f317512eaf7c",
       "nome": "criar plano de ação para os reparos na Lucas Lima - RPB 21 QD 26 LT 16/17 - Parque Dos Buritis",
