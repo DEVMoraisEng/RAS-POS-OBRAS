@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-10-23T09:54:42",
+  "geradoEm": "2026-10-23T13:50:22",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -12,6 +12,28 @@
     "Caio"
   ],
   "atividades": [
+    {
+      "id": "402c5ab5-32d3-8185-bf57-f317512eaf7c",
+      "nome": "criar plano de ação para os reparos na Lucas Lima - RPB 21 QD 26 LT 16/17 - Parque Dos Buritis",
+      "setor": "Caio",
+      "responsavel": "Caio",
+      "prioridade": "Alta",
+      "status": "A Fazer",
+      "semana": "2026-10-19",
+      "obs": "casa extremamente infiltrada",
+      "origem": ""
+    },
+    {
+      "id": "402c5ab5-32d3-814d-a5da-e135c841ba5c",
+      "nome": "criar plano de ação para os reparos nessa obra antiga:\nMarisa - RPB 21  QD 26 LT 18/19 CS 3 Romano",
+      "setor": "Caio",
+      "responsavel": "Caio",
+      "prioridade": "Alta",
+      "status": "A Fazer",
+      "semana": "2026-10-19",
+      "obs": "fomos notificados judicialmente",
+      "origem": ""
+    },
     {
       "id": "400c5ab5-32d3-8184-8975-f7dec59197db",
       "nome": "ORGANIZAR OS SERVIÇOS EM 3 CASAS NO JARDIM ITAIPU W 6. As casas apresentam retorno de diversas fissuras internas e externas.\ncalçadas fissuradas, rodape de algumas paredes estao estufadas com sinais de infiltração.",
