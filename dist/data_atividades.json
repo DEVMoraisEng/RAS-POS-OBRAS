@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-10-26T19:08:35",
+  "geradoEm": "2026-10-26T19:30:02",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -13,8 +13,19 @@
   ],
   "atividades": [
     {
+      "id": "405c5ab5-32d3-8194-83e3-fe7e3a543809",
+      "nome": "VERIFICAR  infiltrações CANEDO:\n1) Laura - TB 21 QD 51 LT 34 CS 1 _ 2) Harmesson - TB 21 QD 42 LT 13 CS 2 _  3) Carol Valadares RPB 24 QD 29 LT 24 CS 2",
+      "setor": "Caio",
+      "responsavel": "Caio",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-10-26",
+      "obs": "",
+      "origem": ""
+    },
+    {
       "id": "402c5ab5-32d3-81ce-b62f-c6ad539dca85",
-      "nome": "chuva forte infiltrou nas casas: _ 1 )Marcio - W6 Qd 17 Lt 19 Cs 2) Rayssa - W 6 QD 17 LT 06 CS _ 3) Vanessa - W6 Qd 17 Lt 12 Cs 2 _ 4 )Laura - TB 21 QD 51 LT 34 CS 1 _ 5 )Harmesson - TB 21 QD 42 LT 13 CS 2 _ 6 )Carol Valadares RPB 24 QD 29 LT 24 CS 2",
+      "nome": "VERIFICAR INFILTRAÇÕES GOIANIA: _ 1 ) Marcio - W6 Qd 17 Lt 19 Cs _ 2) Rayssa - W 6 QD 17 LT 06 CS _ 3) Vanessa - W6 Qd 17 Lt 12 Cs 2 _ 4 ) Bárbara - BH Qd 17 Lt 29 Cs 3",
       "setor": "Caio",
       "responsavel": "Caio",
       "prioridade": "Alta",
