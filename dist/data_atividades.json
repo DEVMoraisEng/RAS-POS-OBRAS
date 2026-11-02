@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-02T05:44:21",
+  "geradoEm": "2026-11-02T08:58:25",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -18,8 +18,8 @@
       "setor": "Caio",
       "responsavel": "Caio",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-10-26",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-11-02",
       "obs": "",
       "origem": ""
     },
@@ -41,7 +41,7 @@
       "responsavel": "Caio",
       "prioridade": "Alta",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-10-26",
+      "semana": "2026-11-02",
       "obs": "casa extremamente infiltrada",
       "origem": ""
     },
@@ -52,7 +52,7 @@
       "responsavel": "Caio",
       "prioridade": "Alta",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-10-26",
+      "semana": "2026-11-02",
       "obs": "fomos notificados judicialmente",
       "origem": ""
     },
@@ -63,7 +63,7 @@
       "responsavel": "Caio",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-10-26",
+      "semana": "2026-11-02",
       "obs": "*Alci - RUA W6 QD 17 LT 18 CS 01*\n\n*Maria Aparecida - W 06 QD 17 LT 15*",
       "origem": ""
     },
@@ -118,7 +118,7 @@
       "responsavel": "Caio",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-10-26",
+      "semana": "2026-11-02",
       "obs": "temos de quebrar  o piso para trocar a caixa sifonada de 100.",
       "origem": ""
     },
@@ -173,7 +173,7 @@
       "responsavel": "Paula",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-10-26",
+      "semana": "2026-11-02",
       "obs": "",
       "origem": ""
     },
@@ -184,7 +184,7 @@
       "responsavel": "Paula",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-10-26",
+      "semana": "2026-11-02",
       "obs": "",
       "origem": ""
     },
@@ -206,7 +206,7 @@
       "responsavel": "Paula",
       "prioridade": "",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-10-26",
+      "semana": "2026-11-02",
       "obs": "",
       "origem": ""
     }
