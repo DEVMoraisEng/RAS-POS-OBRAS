@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-04T17:03:27",
+  "geradoEm": "2026-11-04T18:52:08",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -12,6 +12,17 @@
     "Caio"
   ],
   "atividades": [
+    {
+      "id": "40ec5ab5-32d3-818f-a3ae-cc4be0e5f7aa",
+      "nome": "falar em reuniao semanal de quinta, sobre a necessidade de armazenarmos revestimento ceramico nas casas no ato de entrega",
+      "setor": "Caio",
+      "responsavel": "Caio",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-11-02",
+      "obs": "",
+      "origem": ""
+    },
     {
       "id": "405c5ab5-32d3-8194-83e3-fe7e3a543809",
       "nome": "VERIFICAR  infiltrações CANEDO:\n1) Laura - TB 21 QD 51 LT 34 CS 1 _ 2) Harmesson - TB 21 QD 42 LT 13 CS 2 _  3) Carol Valadares RPB 24 QD 29 LT 24 CS 2",
