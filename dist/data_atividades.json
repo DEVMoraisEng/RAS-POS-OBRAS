@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-09T15:59:07",
+  "geradoEm": "2026-11-09T19:18:07",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -12,6 +12,17 @@
     "Caio"
   ],
   "atividades": [
+    {
+      "id": "413c5ab5-32d3-814d-af5b-e504ecb15a32",
+      "nome": "INFILTRAÇÕES IPANEMA: \n*Av: FRANÇA QD 04 LT 13 CS 2 IPANEMA\n*Av: FRANÇA QD 04 LT 13 CS 1 IPANEMA\n*Av: FRANÇA QD 04 LT 15 CS 3 IPANEMA",
+      "setor": "Caio",
+      "responsavel": "Caio",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-11-09",
+      "obs": "",
+      "origem": ""
+    },
     {
       "id": "40ec5ab5-32d3-818f-a3ae-cc4be0e5f7aa",
       "nome": "falar em reuniao semanal de quinta, sobre a necessidade de armazenarmos revestimento ceramico nas casas no ato de entrega",
