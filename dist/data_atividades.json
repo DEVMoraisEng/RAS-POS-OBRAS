@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-10T08:13:52",
+  "geradoEm": "2026-11-10T16:56:53",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -12,6 +12,28 @@
     "Caio"
   ],
   "atividades": [
+    {
+      "id": "414c5ab5-32d3-81f9-a329-d0627f680431",
+      "nome": "VERIFICAR MADEIRAMENTO TELHADO QUE CEDEU:\nDeusenir - R. LUIS ALBERTO MONTEIRO ESPIRITO SANTO QD 11 LT 22 CS 1 SANTA EFIGÊNIA",
+      "setor": "Caio",
+      "responsavel": "Caio",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-11-09",
+      "obs": "QUINTA 12/11",
+      "origem": ""
+    },
+    {
+      "id": "414c5ab5-32d3-81ce-89a1-fd44c6e4aa5c",
+      "nome": "VERIFICAR MADEIRAMENTO TELHADO QUE CEDEU:\nDeusenir - R. LUIS ALBERTO MONTEIRO ESPIRITO SANTO QD 11 LT 22 CS 1 SANTA EFIGÊNIA",
+      "setor": "Caio",
+      "responsavel": "Caio",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-11-09",
+      "obs": "",
+      "origem": ""
+    },
     {
       "id": "413c5ab5-32d3-814d-af5b-e504ecb15a32",
       "nome": "INFILTRAÇÕES IPANEMA: \n*Av: FRANÇA QD 04 LT 13 CS 2 IPANEMA\n*Av: FRANÇA QD 04 LT 13 CS 1 IPANEMA\n*Av: FRANÇA QD 04 LT 15 CS 3 IPANEMA",
