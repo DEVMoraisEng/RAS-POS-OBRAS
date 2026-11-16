@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-16T02:40:11",
+  "geradoEm": "2026-11-16T09:05:48",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -18,8 +18,8 @@
       "setor": "Caio",
       "responsavel": "Caio",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-11-09",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-11-16",
       "obs": "QUINTA 12/11",
       "origem": ""
     },
@@ -29,8 +29,8 @@
       "setor": "Caio",
       "responsavel": "Caio",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-11-09",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-11-16",
       "obs": "",
       "origem": ""
     },
@@ -40,8 +40,8 @@
       "setor": "Caio",
       "responsavel": "Caio",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-11-09",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-11-16",
       "obs": "",
       "origem": ""
     },
@@ -52,7 +52,7 @@
       "responsavel": "Caio",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-11-09",
+      "semana": "2026-11-16",
       "obs": "",
       "origem": ""
     },
@@ -63,7 +63,7 @@
       "responsavel": "Caio",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-11-09",
+      "semana": "2026-11-16",
       "obs": "",
       "origem": ""
     },
@@ -85,7 +85,7 @@
       "responsavel": "Caio",
       "prioridade": "Alta",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-11-09",
+      "semana": "2026-11-16",
       "obs": "casa extremamente infiltrada",
       "origem": ""
     },
@@ -96,7 +96,7 @@
       "responsavel": "Caio",
       "prioridade": "Alta",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-11-09",
+      "semana": "2026-11-16",
       "obs": "fomos notificados judicialmente",
       "origem": ""
     },
@@ -107,7 +107,7 @@
       "responsavel": "Caio",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-11-09",
+      "semana": "2026-11-16",
       "obs": "*Alci - RUA W6 QD 17 LT 18 CS 01*\n\n*Maria Aparecida - W 06 QD 17 LT 15*",
       "origem": ""
     },
@@ -162,7 +162,7 @@
       "responsavel": "Caio",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-11-09",
+      "semana": "2026-11-16",
       "obs": "temos de quebrar  o piso para trocar a caixa sifonada de 100.",
       "origem": ""
     },
@@ -217,7 +217,7 @@
       "responsavel": "Paula",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-11-09",
+      "semana": "2026-11-16",
       "obs": "",
       "origem": ""
     },
@@ -228,7 +228,7 @@
       "responsavel": "Paula",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-11-09",
+      "semana": "2026-11-16",
       "obs": "",
       "origem": ""
     },
@@ -250,7 +250,7 @@
       "responsavel": "Paula",
       "prioridade": "",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-11-09",
+      "semana": "2026-11-16",
       "obs": "",
       "origem": ""
     }
