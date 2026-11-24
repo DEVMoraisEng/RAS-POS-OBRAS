@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-24T18:48:05",
+  "geradoEm": "2026-11-24T19:01:44",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -12,6 +12,17 @@
     "Caio"
   ],
   "atividades": [
+    {
+      "id": "422c5ab5-32d3-81b1-859b-cd3e6abbfea0",
+      "nome": "vistorias casas TERRA BELA \n26/11",
+      "setor": "Caio",
+      "responsavel": "Caio",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-11-23",
+      "obs": "",
+      "origem": ""
+    },
     {
       "id": "414c5ab5-32d3-81f9-a329-d0627f680431",
       "nome": "VERIFICAR MADEIRAMENTO TELHADO QUE CEDEU:\nDeusenir - R. LUIS ALBERTO MONTEIRO ESPIRITO SANTO QD 11 LT 22 CS 1 SANTA EFIGÊNIA",
