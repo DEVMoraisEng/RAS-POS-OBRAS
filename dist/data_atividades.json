@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-25T12:39:54",
+  "geradoEm": "2026-11-25T14:33:24",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -12,6 +12,17 @@
     "Caio"
   ],
   "atividades": [
+    {
+      "id": "423c5ab5-32d3-8117-9cae-e55f1bd74474",
+      "nome": "Acompanhamento no serviço de concretagem do fundo RPB 21 QD 26 LT 18/19 CS 3 casa antiga Julio",
+      "setor": "Caio",
+      "responsavel": "Caio",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-11-23",
+      "obs": "acompanhar  o serviço que sera realizado pela equipe do mestre WILIAN",
+      "origem": ""
+    },
     {
       "id": "422c5ab5-32d3-81b1-859b-cd3e6abbfea0",
       "nome": "vistorias casas TERRA BELA \n26/11",
@@ -113,7 +124,7 @@
     },
     {
       "id": "400c5ab5-32d3-8184-8975-f7dec59197db",
-      "nome": "ORGANIZAR OS SERVIÇOS EM 3 CASAS NO JARDIM ITAIPU W 6. As casas apresentam retorno de diversas fissuras internas e externas.\ncalçadas fissuradas, rodape de algumas paredes estao estufadas com sinais de infiltração.",
+      "nome": "ORGANIZAR OS SERVIÇOS EM 3 CASAS NO JARDIM ITAIPU W 6. As casas apresentam retorno de diversas fissuras internas e externas. calçadas fissuradas, rodape de algumas paredes estao estufadas com sinais de infiltração.",
       "setor": "Caio",
       "responsavel": "Caio",
       "prioridade": "Média",
