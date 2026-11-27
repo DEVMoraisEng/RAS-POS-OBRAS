@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-27T08:00:21",
+  "geradoEm": "2026-11-27T11:35:30",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -12,6 +12,17 @@
     "Caio"
   ],
   "atividades": [
+    {
+      "id": "425c5ab5-32d3-81ad-ac6b-f2524de57fe4",
+      "nome": "Ana Paula - Belo Horizonte Qd 17 Lt 12 Cs 3 -  verificar, infiltração crônica, pela vizinha de cima.",
+      "setor": "Caio",
+      "responsavel": "Caio",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-11-23",
+      "obs": "marcar com a vizinha DANUBIA",
+      "origem": ""
+    },
     {
       "id": "423c5ab5-32d3-8117-9cae-e55f1bd74474",
       "nome": "Acompanhamento no serviço de concretagem do fundo RPB 21 QD 26 LT 18/19 CS 3 casa antiga Julio",
